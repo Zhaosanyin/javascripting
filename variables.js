@@ -1,2 +1,2 @@
-myvariable = 'mynamezhaosan';
+myvariable = 'some strings';
 
